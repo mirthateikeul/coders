@@ -1,0 +1,59 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp5
+{
+    class Program
+    {
+        //public static double initial(char char_variable)
+        //{
+        //    double variable;
+        //    Console.Write("Введите длину стороны "+ char_variable+": ");
+        //    variable = Convert.ToDouble(Console.ReadLine());
+        //    return variable;
+        //}
+        static void Main(string[] args)
+        {
+            //int Nx, Ny;
+            //double A, B, C;
+            //char literal_str = 'A';
+            //A = initial(literal_str++);
+            //B = initial(literal_str++);
+            //C = initial(literal_str);
+
+            //if(C > A && C > B)
+            //{
+            //    Console.WriteLine("Квадратик С*С не влизает в прамоугольник А*В");
+            //}
+            //else
+            //{
+            //    Nx = (int)Math.Floor(A / C);
+            //    Ny = (int)Math.Floor(B / C);
+            //    Console.WriteLine("В прямоугольнике {0}*{1} помещается {2} квадратиков {3}*{3}", A, B, Nx * Ny, C);
+
+            //    Console.WriteLine("Площадь незанятой части {0}", A * B - (C * C)* (Nx * Ny));
+            //}
+
+
+
+
+
+            //string input = Console.ReadLine();
+            //char[] inputarray = input.ToCharArray();
+            //Array.Reverse(inputarray);
+            //string output = new string(inputarray);
+            //Console.WriteLine("Число {0} мы инвертировали в {1}", input, output);
+
+            int input = Convert.ToInt32(Console.Read());
+            do
+            {
+
+            } while ();
+
+            Console.ReadKey();
+        }
+    }
+}
